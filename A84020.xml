@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect diurnall of the proceedings in Hartford-shire, from the 15. of August to the 29. Wherein is declared how the Earle of Bedfords troops searched the Lord Capels house, where they found armes sufficient to arm a thousand men. Also how they searched Sir Thomas Fanshaw's house, where they found two peeces of ordnance, barrels of powder, muskets and pikes. With a true discovery of the great preparation that the said Sir Thomas Fanshaw hath made for the space of three moneths for some dangerous designe, being one of the Commissioners of Array for that county. Whereunto is added an information given by Sir Thomas Dakers (a member of the House of Commons) intimating that he suspected the Earle of Bedfords troupes should have battell given them by Sir John Watson before they came to Hartford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84020</idno>
+            <idno type="STC">Wing E31</idno>
+            <idno type="STC">Thomason E115_7</idno>
+            <idno type="STC">ESTC R7807</idno>
+            <idno type="EEBO-CITATION">99873194</idno>
+            <idno type="PROQUEST">99873194</idno>
+            <idno type="VID">125655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125655)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect diurnall of the proceedings in Hartford-shire, from the 15. of August to the 29. Wherein is declared how the Earle of Bedfords troops searched the Lord Capels house, where they found armes sufficient to arm a thousand men. Also how they searched Sir Thomas Fanshaw's house, where they found two peeces of ordnance, barrels of powder, muskets and pikes. With a true discovery of the great preparation that the said Sir Thomas Fanshaw hath made for the space of three moneths for some dangerous designe, being one of the Commissioners of Array for that county. Whereunto is added an information given by Sir Thomas Dakers (a member of the House of Commons) intimating that he suspected the Earle of Bedfords troupes should have battell given them by Sir John Watson before they came to Hartford.</title>
+                  <author>Dacres, Thomas, Sir, d. 1668.</author>
+                  <author>R. E.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.M.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Septemb. 1. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: "R. E.".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford, William Russell, --  Duke of, 1613-1700.</term>
+               <term>Capel of Hadham, Arthur Capel, --  Baron, 1610?-1649.</term>
+               <term>Fanshawe, Thomas Fanshawe, --  Viscount, 1596-1665.</term>
+               <term>Watson, John, --  Sir.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Hertfordshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125655:1"/>
+            <pb facs="tcp:125655:1" rendition="simple:additions"/>
+            <p>A PERFECT DIVRNALL <hi>OF THE</hi> PROCEEDINGS IN <hi>HARTFORD</hi>-SHIRE, From the 15. of Auguſt to the 29.</p>
+            <p>Wherein is declared how the <hi>Earle of Bedfords</hi> Troops ſearched the Lord
+<hi>Capels</hi> houſe, where they found armes ſufficient to arm a thouſand men.</p>
+            <p>
+               <hi>Alſo how they ſearched Sir</hi> Thomas Fanſhaw's <hi>houſe, where they found two Peeces of Ordnance, barrels of Powder, Muskets and Pikes.</hi>
+            </p>
+            <p>With a true diſcovery of the great preparation that the ſaid Sir <hi>Thomas Fanſhaw</hi> hath made for the ſpace of three moneths for ſome dangerous deſigne, being one of the Commiſsioners of Array for that County.</p>
+            <p>
+               <hi>Whereunto is added an Information given by Sir</hi> Thomas Dakers <hi>(a Member of the Houſe of Commons) intimating that he ſuſpected the</hi> Earle of Bedfords <hi>Troupes ſhould have battell given them by Sir</hi> John Watſon <hi>before they came to</hi> Hartford.</p>
+            <p>Printed for <hi>W. M.</hi> Septemb. 1. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:125655:2"/>
+            <pb n="1" facs="tcp:125655:2"/>
+            <head>A PERFECT DIVRNALL of the Proceedings in the County of HARTFORD, From Tueſday the 15. of Auguſt, to the 29. 1642.</head>
+            <p>ON Tueſday the Earle of BEDFORDS troupes (by reaſon of an alarum from Hartford, that the Cavaliers were within ſix miles of the Towne) were com<g ref="char:EOLhyphen"/>manded at one a clock in the morning to put themſelves in a poſture of defence, and march towards Hartford; which they with great willingneſſe performed. But on the way towards Hartford, at Hodſdon, Sir Thomas Dakers, a Parliament-man, met them, telling them, he feared they ſhould have a battell betwixt that and Hartford, and, as he thought, neare Sir Iohn Watſons houſe, withall incouraging them to proceed valiantly, intimating the juſtneſſe of the cauſe, with many noble incouragements:
+<pb n="2" facs="tcp:125655:3"/>which indeed ſerved but as an addition to that honourable fire that ardently warmed their breſts, the Captains and Souldiers be<g ref="char:EOLhyphen"/>ing ſo truly noble, and religiouſly valiant.</p>
+            <p>Having parted from Sir Thomas Dakers, and arriving neare the place where this ſup<g ref="char:EOLhyphen"/>poſed battell ſhoulde be, Captain Ankle gave command that every man ſhould charge with bullet, and by reaſon that every man was not accordingly provided, he deſired thoſe that were provided, to impart to o<g ref="char:EOLhyphen"/>thers, promiſing ſupply when they came to the town. Nevertheleſſe the Cavaliers ap<g ref="char:EOLhyphen"/>peared not, neither found they any oppoſi<g ref="char:EOLhyphen"/>tion til they came within ſight of the town, where they ſaw a Court of Guard, and ſome three bow-ſhoots on this ſide certain Cen<g ref="char:EOLhyphen"/>tries: which Captain Ankle ſeeing, ſent out a Party to diſcover what they were: who coming up to the Centries, they demanded the word, and for what cauſe or pretence they came ſo armed? Our Party told them, they had no command to reſolve them any ſuch demand, onely that they were ſent to demand the cauſe of their warlike appea<g ref="char:EOLhyphen"/>rance,
+<pb n="3" facs="tcp:125655:3"/>and for what cauſe they had taken Armes: the Centries deſired the Party of Horſe to march up to the Court of Guard, but they refuſed, onely cauſed the Centrie to march to the head of their troupe, which being done, they having informed the Cap<g ref="char:EOLhyphen"/>tain what they were, the Captain drew out a Squadron of Horſe, and (being conducted by the Centries) marched up to the Court of Guard, where he found almoſt five hun<g ref="char:EOLhyphen"/>dred men completely armed, with their mu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kets preſented againſt them, and their pikes halfe ported or charged: and at the entry of the town ſtood the whole Traine band in a full body placed in a warlike equi<g ref="char:EOLhyphen"/>page. The Court of Guard where he was demanded the word, which was Preventi<g ref="char:EOLhyphen"/>on: having given it them, he was by them conducted to the ſecond Watch, being a Company of Pikes with Bowes and Ar<g ref="char:EOLhyphen"/>rowes, they conducted him to the Captain, who demanded by what authority he had brought his Forces to the town? The Cap<g ref="char:EOLhyphen"/>taine told him that his Troup was raiſed by the Earle of BEDFORD, for the maintenance
+<pb n="4" facs="tcp:125655:4"/>of the true Proteſtant Religion, the Lawes of the Land, the ſafety of His Majeſties Perſon, and His Royall Poſterity, the High Court of Parliament, and the Liberty and Propriety of the Subject: and having intel<g ref="char:EOLhyphen"/>ligence that the town was in danger of be<g ref="char:EOLhyphen"/>ing oppoſed by the Cavaliers, againſt whom he and all his followers were reſolved to ad<g ref="char:EOLhyphen"/>venture their lives, obliged thereunto by his duty to the Parliament, and his own ho<g ref="char:EOLhyphen"/>nour, to give them his beſt aid and aſsiſtance againſt the diſtu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bers of the peace of the Kingdome. Having ſpoke thus to them, they gave him a generall welcome, condu<g ref="char:EOLhyphen"/>cting him through the Watches to his own Troupe, opening their whole Body to the right and left, leaving a large diſtance for the Horſe to paſſe through them, and giving them an unexpected welcome, ſhewing themſelvs ſuch fire-men as can hardly be bet<g ref="char:EOLhyphen"/>tered. Notwithſtanding they find but hard uſage in their proviſion both for Horſe and man, paying eight pence a meale, come or come not, for mean diet. Wherefore they intend to petition the Parliament, that there
+<pb n="5" facs="tcp:125655:4"/>may be a reaſonable rate for diet ſet downe, and for Oates and Hay, that this exaction may not continue.</p>
+            <p>Since their abode there, Sir Iohn Lucey and Sir Iohn Watſon came to the Bell at Hartford with certain Cavaliers, giving out that they intended to put the Commiſsion of Array in execution, which cauſed us to arm our ſelves, and ſtand right againſt the Bell, which the valiant Knights perceiving, ſtole out of the towne.</p>
+            <p>We march out daily to exerciſe, becauſe we daily expect to be oppoſed. All our Troupes from the greateſt to the leaſt ſtand well affected to the Parliament, and (I am confident) will do good ſervice, if occaſion ſerve, our Captain being a well experienced ſouldier, and our other Officers ſutable both in skill and behaviour.</p>
+            <p>On munday the 29. of Auguſt a Troupe of Horſe under the command of the Earle of BEDFORD, with the aſsiſtance of ſome Horſemen from London, marched to the Lord Capels houſe, where they found arms ſufficient to arme about a thouſand men,
+<pb n="6" facs="tcp:125655:5"/>with ten Horſes, great Saddles, Piſtols and Carbines. Likewiſe at Sir Thomas Fan<g ref="char:EOLhyphen"/>ſhaws houſe were found two Peeces of Ordnance, with ſeverall barrels of Powder, Musket and Pikes: and is thought in the countrey that he is a great deale better pro<g ref="char:EOLhyphen"/>vided, having kept two Gun-Smiths theſe three moneths in his houſe to mend and make armes cleane, but for the preſent they cannot learn where they are beſtowed.</p>
+            <p>Theſe are the chiefe of our Proceedings in the County of Hartford, being in a very good Poſture. The next return you ſhall heare from me. So I reſt,</p>
+            <closer>
+               <signed>Your loving friend, R. E.</signed>
+               <dateline>Hartf.
+<date>Aug. 29. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
